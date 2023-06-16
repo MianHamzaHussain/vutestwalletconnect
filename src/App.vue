@@ -4,7 +4,6 @@
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
   <ul>
     <li>
       <router-link to="/">Home Page</router-link>
@@ -19,8 +18,6 @@
 <style>
 body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  color: #adbac7;
-  background-color: #22272e;
 }
 img {
   margin: 0 auto;
